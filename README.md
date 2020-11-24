@@ -8,6 +8,7 @@
 * [exped](https://github.com/holmesrichards/exped) Expression pedal interface synth module
 * [frontpanels](https://github.com/holmesrichards/frontpanels) Front panels for various synth modules
 * [GateGrinder](https://github.com/holmesrichards/GateGrinder) Synth module to generate clocks and act on triggers and gates
+* [megamodule](https://github.com/holmesrichards/megamodule) Toy voice changing megaphone bent into synth module
 * [midi2cv_ao](https://github.com/holmesrichards/midi2cv_ao) Simple MIDI to CV synth module
 * [Mikrokosmos](https://github.com/holmesrichards/Mikrokosmos) Kosmo format version of Music Thing Modular's Mikrophonie synthesizer module
 * [NoiseBells](https://github.com/holmesrichards/NoiseBells) Percussion module based on Hackaday CMOS Noise article
@@ -32,7 +33,10 @@
 ## Forks of misc repos
 * [breadboard-friends](https://github.com/holmesrichards/breadboard-friends) A collection of cute breakout boards riding solderless breadboards, mostly for analog audio works
 * [cvpal](https://github.com/holmesrichards/cvpal) Cheap and cheerful 2-channel USB to CV/Gate interface
+* [Electrophone](https://github.com/holmesrichards/Electrophone) Guitar pickup module
 * [midipal](https://github.com/holmesrichards/midipal) MIDI swiss army knife
+* [module_tester](https://github.com/holmesrichards/module_tester) Test signal generator for Eurorack module
+* [mutable_eurorack](https://github.com/holmesrichards/mutable_eurorack) MI Eurorack modules
 * [SimpleEQ](https://github.com/holmesrichards/SimpleEQ) SMD Eurorack EQ Module
 
 ## (Temporarily?) abandoned projects
@@ -40,3 +44,5 @@
 * [Arpeggiator](https://github.com/holmesrichards/Arpeggiator) Kosmo format (Eurorack compatible) arpeggiator module
 * [drum6](https://github.com/holmesrichards/drum6) Ridiculous bending and repurposing of First Act drum pad as Eurorack module and maybe controller
 
+## Gratuitous recursion
+* [Directory](https://github.com/holmesrichards/Directory) Gratuitous recursion
