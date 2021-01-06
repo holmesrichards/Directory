@@ -1,3 +1,4 @@
+doidy
 backintime restore .'/Cable tester/cabletester'/ao_tht.pretty '' 1
 backintime restore .'/3340 VCO/Hardware/PCB/3340vco'/ao_tht.pretty '' 1
 backintime restore .'/Octave switch/octave'/ao_tht.pretty '' 1
