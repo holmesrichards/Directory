@@ -9,8 +9,8 @@
 * [frontpanels](https://github.com/holmesrichards/frontpanels) Front panels for various synth modules
 * [GateGrinder](https://github.com/holmesrichards/GateGrinder) Synth module to generate clocks and act on triggers and gates
 * [megamodule](https://github.com/holmesrichards/megamodule) Toy voice changing megaphone bent into synth module
+* [MCVI](https://github.com/holmesrichards/MCVI) Simple MIDI to CV synth module
 * [MFOS_VC_LFO](https://github.com/holmesrichards/MFOS_VC_LFO) Auxiliary board and Kosmo format front panel for MFOS VC LFO synth module
-* [midi2cv_ao](https://github.com/holmesrichards/midi2cv_ao) Simple MIDI to CV synth module
 * [Mikrokosmos](https://github.com/holmesrichards/Mikrokosmos) Kosmo format version of Music Thing Modular's Mikrophonie synthesizer module
 * [NoiseBells](https://github.com/holmesrichards/NoiseBells) Percussion module based on Hackaday CMOS Noise article
 * [QuantizerModule](https://github.com/holmesrichards/QuantizerModule) Code and hardware for Kosmo/Eurorack quantizer module
