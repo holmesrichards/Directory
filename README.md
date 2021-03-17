@@ -27,10 +27,11 @@
 * [Protoboard](https://github.com/holmesrichards/Protoboard) Eurorack/Kosmo powered protyping boards
 * [ww_supply](https://github.com/holmesrichards/ww_supply) ±12V power supply for synthesizers
 
-## KiCad templates and libraries
+## KiCad templates, libraries, and plugins
 * [kicadfootprints](https://github.com/holmesrichards/kicadfootprints) Custom KiCad footprints
 * [kicadsymbols](https://github.com/holmesrichards/kicadsymbols) Various symbols I've created or adapted
 * [Kosmo_panel](https://github.com/holmesrichards/Kosmo_panel) KiCad footprint library for Kosmo panel elements
+* [mdbom](https://github.com/holmesrichards/mdbom) Plugin for grouped BOM in Markdown format
 
 ## Forks of misc repos
 * [breadboard-friends](https://github.com/holmesrichards/breadboard-friends) A collection of cute breakout boards riding solderless breadboards, mostly for analog audio works
