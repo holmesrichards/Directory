@@ -5,6 +5,7 @@
 
 ## Analog Output Kosmo modules and panels
 * [8StepSequencer](https://github.com/holmesrichards/8StepSequencer) 8 step control voltage sequencer based on LMNC design, with a number of modifications
+* [DC Mixer](https://github.com/holmesrichards/dc_mixer) 3 input DC mixer Kosmo format synth module
 * [exped](https://github.com/holmesrichards/exped) Expression pedal interface synth module
 * [frontpanels](https://github.com/holmesrichards/frontpanels) Front panels for various synth modules
 * [GateGrinder](https://github.com/holmesrichards/GateGrinder) Synth module to generate clocks and act on triggers and gates
