@@ -15,7 +15,7 @@
 * [Mikrokosmos](https://github.com/holmesrichards/Mikrokosmos) Kosmo format version of Music Thing Modular's Mikrophonie synthesizer module
 * [NoiseBells](https://github.com/holmesrichards/NoiseBells) Percussion module based on Hackaday CMOS Noise article
 * [QuantizerModule](https://github.com/holmesrichards/QuantizerModule) Code and hardware for Kosmo/Eurorack quantizer module
-* [StereoOutKosmo](https://github.com/holmesrichards/StereoOutKosmo) Daughterboard and panel for Kosmo version of Barton Stereo Out module
+* [StereoOutKosmo](https://github.com/holmesrichards/StereoOutKosmo) Stereo output synthesizer module in Kosmo format
 * [subosc](https://github.com/holmesrichards/subosc) Suboscillator by Carmelo Azarello
 * [WaveShaper](https://github.com/holmesrichards/WaveShaper) Modification of Barton 4046 Wave Shaper to allow voltage control
 
