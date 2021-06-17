@@ -19,12 +19,11 @@
 * [subosc](https://github.com/holmesrichards/subosc) Suboscillator by Carmelo Azarello
 * [WaveShaper](https://github.com/holmesrichards/WaveShaper) Modification of Barton 4046 Wave Shaper to allow voltage control
 
-## Other synth related
+## Other synth related hardware
 * [busboard](https://github.com/holmesrichards/busboard) Eurorack/Kosmo Busboards
 * [cabletester](https://github.com/holmesrichards/cabletester) Arduino 10/16 pin Eurorack IDC Power Cable Tester
 * [dac_ino](https://github.com/holmesrichards/dac_ino) Arduino CV/Gate I/O shield and its software library
 * [midisnoop](https://github.com/holmesrichards/midisnoop) For looking at incoming MIDI messages
-* [playoeis](https://github.com/holmesrichards/playoeis) Python script to play an OEIS sequence as a MIDI sequence.
 * [powerbreakout](https://github.com/holmesrichards/powerbreakout) Euro/Kosmo power breakout
 * [Protoboard](https://github.com/holmesrichards/Protoboard) Eurorack/Kosmo powered protyping boards
 * [ww_supply](https://github.com/holmesrichards/ww_supply) ±12V power supply for synthesizers
