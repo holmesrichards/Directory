@@ -35,7 +35,13 @@
 * [Kosmo_panel](https://github.com/holmesrichards/Kosmo_panel) KiCad footprint library for Kosmo panel elements
 * [mdbom](https://github.com/holmesrichards/mdbom) Plugin for grouped BOM in Markdown format
 
-## Forks of misc repos
+## Music software
+* [playoeis](https://github.com/holmesrichards/playoeis) Python script to play an OEIS sequence as a MIDI sequence
+
+## Python libraries
+* [oeislib](https://github.com/holmesrichards/oeislib) Python library for OEIS (Online Encyclopedia of Integer Sequences)
+
+## Largely unmodified forks of misc repos
 * [breadboard-friends](https://github.com/holmesrichards/breadboard-friends) A collection of cute breakout boards riding solderless breadboards, mostly for analog audio works
 * [cvpal](https://github.com/holmesrichards/cvpal) Cheap and cheerful 2-channel USB to CV/Gate interface
 * [Electrophone](https://github.com/holmesrichards/Electrophone) Guitar pickup module
